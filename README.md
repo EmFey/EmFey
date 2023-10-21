@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EmFey</h1>
 <h3 align="center">A creative developer</h3>
 
-- 🔭 I’m currently working on [TikTacToe](https://github.com/EmFey/TicTacToe)
+- 🔭 I’m currently working on [RestaurantPage](https://github.com/EmFey/restaurantPage)
 
 - 🌱 I’m currently learning **Web development with TOP**
 
